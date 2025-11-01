@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TheCatApi</string>
+    <string name="cats">Cats</string>
+    <string name="cat_info">Cat infos</string>
+</resources>
