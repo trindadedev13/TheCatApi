@@ -1,11 +1,13 @@
 # TheCatApi
  - Simple Cats List.
 
+## Download 
+  You can Download the Apk at [Releases Page](https://github.com/trindadedev13/TheCatApi/releases).
+
 ## How to use
  - Open app, With Internet.
  - Wait cats load...
  - See cats and click.
-
 
 ## Features
  - Cat Full Info Screen
